@@ -2,7 +2,7 @@
   "name": "comp438-prj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://osidabu-alrub.github.io/COMP438-Project",
+  "homepage": "https://osidabu-alrub.github.io/comp438-prj/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
