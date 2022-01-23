@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/COMP438-Project/static/js/main.8b64e57c.js",
-    "static/js/787.b1d886cf.chunk.js": "/COMP438-Project/static/js/787.b1d886cf.chunk.js",
-    "index.html": "/COMP438-Project/index.html",
-    "main.8b64e57c.js.map": "/COMP438-Project/static/js/main.8b64e57c.js.map",
-    "787.b1d886cf.chunk.js.map": "/COMP438-Project/static/js/787.b1d886cf.chunk.js.map"
+    "main.js": "/comp438-prj/static/js/main.e3d300d8.js",
+    "static/js/787.b1d886cf.chunk.js": "/comp438-prj/static/js/787.b1d886cf.chunk.js",
+    "index.html": "/comp438-prj/index.html",
+    "main.e3d300d8.js.map": "/comp438-prj/static/js/main.e3d300d8.js.map",
+    "787.b1d886cf.chunk.js.map": "/comp438-prj/static/js/787.b1d886cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.8b64e57c.js"
+    "static/js/main.e3d300d8.js"
   ]
 }
